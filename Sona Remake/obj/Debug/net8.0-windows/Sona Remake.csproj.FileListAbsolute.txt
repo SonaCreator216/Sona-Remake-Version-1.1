@@ -1,0 +1,19 @@
+C:\Users\Jared\source\repos\Sona Remake\Sona Remake\bin\Debug\net8.0-windows\Sona Remake.exe
+C:\Users\Jared\source\repos\Sona Remake\Sona Remake\bin\Debug\net8.0-windows\Sona Remake.deps.json
+C:\Users\Jared\source\repos\Sona Remake\Sona Remake\bin\Debug\net8.0-windows\Sona Remake.runtimeconfig.json
+C:\Users\Jared\source\repos\Sona Remake\Sona Remake\bin\Debug\net8.0-windows\Sona Remake.dll
+C:\Users\Jared\source\repos\Sona Remake\Sona Remake\bin\Debug\net8.0-windows\Sona Remake.pdb
+C:\Users\Jared\source\repos\Sona Remake\Sona Remake\bin\Debug\net8.0-windows\ForlornApi.dll
+C:\Users\Jared\source\repos\Sona Remake\Sona Remake\obj\Debug\net8.0-windows\Sona Remake.csproj.AssemblyReference.cache
+C:\Users\Jared\source\repos\Sona Remake\Sona Remake\obj\Debug\net8.0-windows\Sona_Remake.Form1.resources
+C:\Users\Jared\source\repos\Sona Remake\Sona Remake\obj\Debug\net8.0-windows\Sona Remake.csproj.GenerateResource.cache
+C:\Users\Jared\source\repos\Sona Remake\Sona Remake\obj\Debug\net8.0-windows\Sona Remake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jared\source\repos\Sona Remake\Sona Remake\obj\Debug\net8.0-windows\Sona Remake.AssemblyInfoInputs.cache
+C:\Users\Jared\source\repos\Sona Remake\Sona Remake\obj\Debug\net8.0-windows\Sona Remake.AssemblyInfo.cs
+C:\Users\Jared\source\repos\Sona Remake\Sona Remake\obj\Debug\net8.0-windows\Sona Remake.csproj.CoreCompileInputs.cache
+C:\Users\Jared\source\repos\Sona Remake\Sona Remake\obj\Debug\net8.0-windows\Sona Rem.7914B250.Up2Date
+C:\Users\Jared\source\repos\Sona Remake\Sona Remake\obj\Debug\net8.0-windows\Sona Remake.dll
+C:\Users\Jared\source\repos\Sona Remake\Sona Remake\obj\Debug\net8.0-windows\refint\Sona Remake.dll
+C:\Users\Jared\source\repos\Sona Remake\Sona Remake\obj\Debug\net8.0-windows\Sona Remake.pdb
+C:\Users\Jared\source\repos\Sona Remake\Sona Remake\obj\Debug\net8.0-windows\Sona Remake.genruntimeconfig.cache
+C:\Users\Jared\source\repos\Sona Remake\Sona Remake\obj\Debug\net8.0-windows\ref\Sona Remake.dll
